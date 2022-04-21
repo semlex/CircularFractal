@@ -1,0 +1,16 @@
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.exe
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.deps.json
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.runtimeconfig.json
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.runtimeconfig.dev.json
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.dll
+C:\Users\alexp\Desktop\Практика\IDZ2\bin\Debug\netcoreapp3.1\IDZ2.pdb
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.csprojAssemblyReference.cache
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.Form1.resources
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.csproj.GenerateResource.cache
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.AssemblyInfoInputs.cache
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.AssemblyInfo.cs
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.dll
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.pdb
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.genruntimeconfig.cache
+C:\Users\alexp\Desktop\Практика\IDZ2\obj\Debug\netcoreapp3.1\IDZ2.Form2.resources
